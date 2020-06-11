@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     
     @State var alertIsVisible = false
-    @State var sliderValue = 50.0
+    @State var sliderValue = 10.0
     @State var target = Int.random(in: 1...100)
     
     @State var score = 0
