@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D9DBFC7248A8D3600CADAAE /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D9DBFC6248A8D3600CADAAE /* AboutView.swift */; };
 		9DB6D513247F082F0003C82D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB6D512247F082F0003C82D /* AppDelegate.swift */; };
 		9DB6D515247F082F0003C82D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB6D514247F082F0003C82D /* SceneDelegate.swift */; };
 		9DB6D517247F082F0003C82D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB6D516247F082F0003C82D /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9D9DBFC6248A8D3600CADAAE /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		9DB6D50F247F082F0003C82D /* Bullseye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bullseye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DB6D512247F082F0003C82D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DB6D514247F082F0003C82D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				9DB6D51D247F08300003C82D /* LaunchScreen.storyboard */,
 				9DB6D520247F08300003C82D /* Info.plist */,
 				9DB6D51A247F08300003C82D /* Preview Content */,
+				9D9DBFC6248A8D3600CADAAE /* AboutView.swift */,
 			);
 			path = Bullseye;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D9DBFC7248A8D3600CADAAE /* AboutView.swift in Sources */,
 				9DB6D513247F082F0003C82D /* AppDelegate.swift in Sources */,
 				9DB6D515247F082F0003C82D /* SceneDelegate.swift in Sources */,
 				9DB6D517247F082F0003C82D /* ContentView.swift in Sources */,
